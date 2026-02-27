@@ -1,12 +1,7 @@
-// Calculate-Fatorial-in-C
-//you can enter a number like a user to calculte factorial
-#include <stdio.h>
-int main () {
-    int a , b = 1;
-    printf("Enter your value: ");
-    scanf("%d",&a);
-    for(int c = 1; c <= a ;c ++){
-        b *= c ;
-    }
-    printf("The value of C: %d",b);
-}
+use cmd for run this file - 
+1) git clone git clone https://github.com/itracely001/Calculate-Fatorial-in-C
+2) cd Calculate-Fatorial-in-C
+3) gcc code.c -o c
+4) ./c 
+
+HURRY! This is my first program 
